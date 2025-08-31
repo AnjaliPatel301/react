@@ -4,7 +4,6 @@ const GEMINI_ENDPOINT =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
 
 
-const API_KEY = "AIzaSyBqxy4cPPMciXUxrLhkjEresuG3K8trpt4";
 
 function Github() {
   const [prompt, setPrompt] = useState("");
